@@ -1,0 +1,10 @@
+[
+  {
+    "OrderId": "ORD-00014",
+    "ProductId": "PRD-10003",
+    "Quantity": 1,
+    "CreatedAt": "2024-11-04T10:00:00Z",
+    "DeliverAt": "2024-11-14T12:00:00Z",
+    "CustomerAddress": "350 5th Ave, New York, NY 10118"
+  }
+] 

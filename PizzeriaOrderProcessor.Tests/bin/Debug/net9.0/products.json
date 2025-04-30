@@ -1,0 +1,7 @@
+[
+  { "ProductId": "PRD-10001", "ProductName": "Margherita", "Price": 8.99, "VAT": 0.10 },
+  { "ProductId": "PRD-10002", "ProductName": "Pepperoni", "Price": 10.99, "VAT": 0.12 },
+  { "ProductId": "PRD-10003", "ProductName": "Veggie", "Price": 9.99, "VAT": 0.10 },
+  { "ProductId": "PRD-10004", "ProductName": "Coke", "Price": 1.99, "VAT": 0.05 },
+  { "ProductId": "PRD-10005", "ProductName": "Water", "Price": 0.99, "VAT": 0.00 }
+]

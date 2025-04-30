@@ -1,0 +1,18 @@
+[
+  {
+    "OrderId": "ORD-00001",
+    "ProductId": "PRD-10001",
+    "Quantity": 1,
+    "CreatedAt": "2024-10-27T10:00:00Z",
+    "DeliverAt": "2024-10-27T11:30:00Z",
+    "CustomerAddress": "123 Maple Street, Springfield, IL 62704"
+  },
+  {
+    "OrderId": "ORD-00001",
+    "ProductId": "PRD-10002", 
+    "Quantity": 2,
+    "CreatedAt": "2024-10-27T10:00:00Z",
+    "DeliverAt": "2024-10-27T11:30:00Z",
+    "CustomerAddress": "123 Maple Street, Springfield, IL 62704"
+  }
+]

@@ -1,0 +1,226 @@
+2025-04-30 00:17:55.091 +04:00 [INF] Host configured. Starting application run...
+2025-04-30 00:17:55.172 +04:00 [INF] Resolved product catalog path to: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json
+2025-04-30 00:17:55.178 +04:00 [INF] Loading Product Catalog...
+2025-04-30 00:17:55.247 +04:00 [INF] Successfully deserialized 5 products from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json
+2025-04-30 00:17:55.264 +04:00 [INF] Product catalog loaded and frozen successfully from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json. Contains 5 unique products.
+2025-04-30 00:17:55.267 +04:00 [INF] Product Catalog loaded successfully.
+2025-04-30 00:17:55.272 +04:00 [INF] Resolved ingredient mappings path to: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json
+2025-04-30 00:17:55.273 +04:00 [INF] Loading Ingredient Mappings...
+2025-04-30 00:17:55.286 +04:00 [INF] Successfully deserialized 5 ingredient mappings from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json
+2025-04-30 00:17:55.290 +04:00 [INF] Ingredient mappings loaded and frozen successfully from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json. Contains mappings for 5 unique products.
+2025-04-30 00:17:55.294 +04:00 [INF] Ingredient Mappings loaded successfully.
+2025-04-30 00:17:55.298 +04:00 [INF] Found 21 order JSON files to process in directory: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\
+2025-04-30 00:17:55.412 +04:00 [INF] MockQueue initialized with 20 % failure probability.
+2025-04-30 00:17:55.428 +04:00 [INF] BatchQueuePusher initialized with push batch size 50.
+2025-04-30 00:17:55.435 +04:00 [INF] OrderProcessingOrchestrator initialized.
+2025-04-30 00:17:55.444 +04:00 [INF] Starting order batch processing for 21 file(s)...
+2025-04-30 00:17:55.826 +04:00 [INF] Batch processing finished in 383 ms.
+2025-04-30 00:17:55.828 +04:00 [INF] Displaying final summary...
+2025-04-30 00:17:55.955 +04:00 [INF] Application run completed.
+2025-04-30 00:18:38.765 +04:00 [INF] Host configured. Starting application run...
+2025-04-30 00:18:38.841 +04:00 [INF] Resolved product catalog path to: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json
+2025-04-30 00:18:38.849 +04:00 [INF] Loading Product Catalog...
+2025-04-30 00:18:38.941 +04:00 [INF] Successfully deserialized 5 products from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json
+2025-04-30 00:18:38.965 +04:00 [INF] Product catalog loaded and frozen successfully from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json. Contains 5 unique products.
+2025-04-30 00:18:38.967 +04:00 [INF] Product Catalog loaded successfully.
+2025-04-30 00:18:38.970 +04:00 [INF] Resolved ingredient mappings path to: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json
+2025-04-30 00:18:38.971 +04:00 [INF] Loading Ingredient Mappings...
+2025-04-30 00:18:39.020 +04:00 [INF] Successfully deserialized 5 ingredient mappings from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json
+2025-04-30 00:18:39.035 +04:00 [INF] Ingredient mappings loaded and frozen successfully from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json. Contains mappings for 5 unique products.
+2025-04-30 00:18:39.037 +04:00 [INF] Ingredient Mappings loaded successfully.
+2025-04-30 00:18:39.039 +04:00 [INF] Found 21 order JSON files to process in directory: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\
+2025-04-30 00:18:39.146 +04:00 [INF] MockQueue initialized with 20 % failure probability.
+2025-04-30 00:18:39.164 +04:00 [INF] BatchQueuePusher initialized with push batch size 50.
+2025-04-30 00:18:39.167 +04:00 [INF] OrderProcessingOrchestrator initialized.
+2025-04-30 00:18:39.175 +04:00 [INF] Starting order batch processing for 21 file(s)...
+2025-04-30 00:18:39.525 +04:00 [INF] Batch processing finished in 350 ms.
+2025-04-30 00:18:39.553 +04:00 [INF] Displaying final summary...
+2025-04-30 00:18:39.904 +04:00 [INF] Application run completed.
+2025-04-30 01:02:29.516 +04:00 [INF] Host configured. Starting application run...
+2025-04-30 01:02:29.580 +04:00 [INF] Resolved product catalog path to: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json
+2025-04-30 01:02:29.584 +04:00 [INF] Loading Product Catalog...
+2025-04-30 01:02:29.657 +04:00 [INF] Successfully deserialized 5 products from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json
+2025-04-30 01:02:29.674 +04:00 [INF] Product catalog loaded and frozen successfully from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json. Contains 5 unique products.
+2025-04-30 01:02:29.674 +04:00 [INF] Product Catalog loaded successfully.
+2025-04-30 01:02:29.676 +04:00 [INF] Resolved ingredient mappings path to: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json
+2025-04-30 01:02:29.676 +04:00 [INF] Loading Ingredient Mappings...
+2025-04-30 01:02:29.686 +04:00 [INF] Successfully deserialized 5 ingredient mappings from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json
+2025-04-30 01:02:29.688 +04:00 [INF] Ingredient mappings loaded and frozen successfully from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json. Contains mappings for 5 unique products.
+2025-04-30 01:02:29.688 +04:00 [INF] Ingredient Mappings loaded successfully.
+2025-04-30 01:02:29.689 +04:00 [INF] Found 21 order JSON files to process in directory: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\
+2025-04-30 01:02:29.800 +04:00 [INF] MockQueue initialized with 20 % failure probability.
+2025-04-30 01:02:29.820 +04:00 [INF] BatchQueuePusher initialized with push batch size 50.
+2025-04-30 01:02:29.821 +04:00 [INF] OrderProcessingOrchestrator initialized.
+2025-04-30 01:02:29.832 +04:00 [INF] Starting order batch processing for 21 file(s)...
+2025-04-30 01:02:29.832 +04:00 [INF] [yellow]Phase 1: Buffering order files started[/]
+2025-04-30 01:02:29.837 +04:00 [INF] Starting order file buffering process for 21 file(s).
+2025-04-30 01:02:29.837 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order01_valid.json
+2025-04-30 01:02:29.870 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order01_valid.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.873 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order02_invalid_address.json
+2025-04-30 01:02:29.875 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order02_invalid_address.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.877 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order03_inconsistent.json
+2025-04-30 01:02:29.878 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order03_inconsistent.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.878 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order04_invalid_quantity.json
+2025-04-30 01:02:29.883 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order04_invalid_quantity.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.883 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order05_invalid_date.json
+2025-04-30 01:02:29.883 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order05_invalid_date.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.884 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order06_product_not_found.json
+2025-04-30 01:02:29.884 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order06_product_not_found.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.884 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order07_malformed_item.json
+2025-04-30 01:02:29.893 +04:00 [ERR] Malformed JSON in C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order07_malformed_item.json – skipping file. Error: The JSON value could not be converted to System.Int32. Path: $[1].Quantity | LineNumber: 12 | BytePositionInLine: 21.
+2025-04-30 01:02:29.894 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order07_malformed_item.json. Skipped items in this file: 1. Fatal JSON error: false
+2025-04-30 01:02:29.894 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order08_empty_item.json
+2025-04-30 01:02:29.904 +04:00 [WRN] Skipping order line item with missing or invalid format OrderId ('') in file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order08_empty_item.json. Data: {"OrderId":"","ProductId":"","Quantity":0,"DeliverAt":"0001-01-01T00:00:00.0000000","CreatedAt":"0001-01-01T00:00:00.0000000","CustomerAddress":"","$type":"RawOrderLineItem"}
+2025-04-30 01:02:29.912 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order08_empty_item.json. Skipped items in this file: 1. Fatal JSON error: false
+2025-04-30 01:02:29.912 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order09_min_amount_fail.json
+2025-04-30 01:02:29.913 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order09_min_amount_fail.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.913 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order10_valid_complex.json
+2025-04-30 01:02:29.913 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order10_valid_complex.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.914 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order11_invalid_too_early.json
+2025-04-30 01:02:29.914 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order11_invalid_too_early.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.914 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order12_invalid_too_late.json
+2025-04-30 01:02:29.916 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order12_invalid_too_late.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.917 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order13_invalid_prep_time.json
+2025-04-30 01:02:29.917 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order13_invalid_prep_time.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.918 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order14_invalid_max_advance.json
+2025-04-30 01:02:29.918 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order14_invalid_max_advance.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.918 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order15_invalid_qty_limit.json
+2025-04-30 01:02:29.919 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order15_invalid_qty_limit.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.919 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order16_valid_edge_qty.json
+2025-04-30 01:02:29.919 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order16_valid_edge_qty.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.919 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order17_missing_req_field.json
+2025-04-30 01:02:29.920 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order17_missing_req_field.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.920 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order18_invalid_addr_format2.json
+2025-04-30 01:02:29.920 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order18_invalid_addr_format2.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.921 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order19_null_field_value.json
+2025-04-30 01:02:29.921 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order19_null_field_value.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.921 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order20_valid_vat_fallback.json
+2025-04-30 01:02:29.921 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order20_valid_vat_fallback.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.922 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order21_valid.json
+2025-04-30 01:02:29.922 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order21_valid.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:29.922 +04:00 [INF] Finished buffering all files. Buffered 20 unique OrderIds. Total skipped line items across all files: 2
+2025-04-30 01:02:29.923 +04:00 [INF] [green]Phase 1: Buffering complete. Buffered 20 unique OrderIds. Skipped 2 items.[/]
+2025-04-30 01:02:29.924 +04:00 [INF] [cyan]Phase 2: Processing 20 buffered orders[/]
+2025-04-30 01:02:30.002 +04:00 [INF] [cyan]Phase 2: Processing progress: 5% (1/20 orders)[/]
+2025-04-30 01:02:30.002 +04:00 [INF] [cyan]Phase 2: Processing progress: 10% (2/20 orders)[/]
+2025-04-30 01:02:30.006 +04:00 [WRN] Order ORD-00003 failed pre-validation in file order03_inconsistent.json: Inconsistent order data: Inconsistent DeliverAt times provided (10/27/2024 11:00:00 AM vs 10/27/2024 11:30:00 AM).
+2025-04-30 01:02:30.006 +04:00 [INF] [cyan]Phase 2: Processing progress: 15% (3/20 orders)[/]
+2025-04-30 01:02:30.006 +04:00 [WRN] Order ORD-00004 failed pre-validation in file order04_invalid_quantity.json: Invalid items: Line item for ProductId 'PRD-10004' has non-positive quantity (0) for Order ORD-00004.
+2025-04-30 01:02:30.006 +04:00 [INF] [cyan]Phase 2: Processing progress: 20% (4/20 orders)[/]
+2025-04-30 01:02:30.008 +04:00 [INF] [cyan]Phase 2: Processing progress: 25% (5/20 orders)[/]
+2025-04-30 01:02:30.008 +04:00 [WRN] Order ORD-00006 failed pre-validation in file order06_product_not_found.json: Invalid items: ProductId 'PRD-99999' not found in Product Catalog for Order ORD-00006.
+2025-04-30 01:02:30.009 +04:00 [INF] [cyan]Phase 2: Processing progress: 30% (6/20 orders)[/]
+2025-04-30 01:02:30.009 +04:00 [INF] [cyan]Phase 2: Processing progress: 35% (7/20 orders)[/]
+2025-04-30 01:02:30.013 +04:00 [INF] [cyan]Phase 2: Processing progress: 40% (8/20 orders)[/]
+2025-04-30 01:02:30.013 +04:00 [INF] [cyan]Phase 2: Processing progress: 45% (9/20 orders)[/]
+2025-04-30 01:02:30.015 +04:00 [INF] [cyan]Phase 2: Processing progress: 50% (10/20 orders)[/]
+2025-04-30 01:02:30.015 +04:00 [INF] [cyan]Phase 2: Processing progress: 55% (11/20 orders)[/]
+2025-04-30 01:02:30.016 +04:00 [INF] [cyan]Phase 2: Processing progress: 60% (12/20 orders)[/]
+2025-04-30 01:02:30.016 +04:00 [INF] [cyan]Phase 2: Processing progress: 65% (13/20 orders)[/]
+2025-04-30 01:02:30.019 +04:00 [INF] [cyan]Phase 2: Processing progress: 70% (14/20 orders)[/]
+2025-04-30 01:02:30.020 +04:00 [INF] [cyan]Phase 2: Processing progress: 75% (15/20 orders)[/]
+2025-04-30 01:02:30.020 +04:00 [WRN] Order ORD-00017 failed pre-validation in file order17_missing_req_field.json: Invalid items: Line item for ProductId 'PRD-10002' has non-positive quantity (0) for Order ORD-00017.
+2025-04-30 01:02:30.020 +04:00 [INF] [cyan]Phase 2: Processing progress: 80% (16/20 orders)[/]
+2025-04-30 01:02:30.020 +04:00 [INF] [cyan]Phase 2: Processing progress: 85% (17/20 orders)[/]
+2025-04-30 01:02:30.020 +04:00 [INF] [cyan]Phase 2: Processing progress: 90% (18/20 orders)[/]
+2025-04-30 01:02:30.021 +04:00 [INF] [cyan]Phase 2: Processing progress: 95% (19/20 orders)[/]
+2025-04-30 01:02:30.021 +04:00 [INF] [cyan]Phase 2: Processing progress: 100% (20/20 orders)[/]
+2025-04-30 01:02:30.021 +04:00 [INF] [green]Phase 2: Order processing complete. Valid: 0, Invalid: 20[/]
+2025-04-30 01:02:30.021 +04:00 [INF] No valid orders to push. Skipping queue push.
+2025-04-30 01:02:30.021 +04:00 [INF] Batch processing finished in 190 ms.
+2025-04-30 01:02:30.022 +04:00 [INF] Displaying final summary...
+2025-04-30 01:02:30.278 +04:00 [INF] Application run completed.
+2025-04-30 01:02:37.240 +04:00 [INF] Host configured. Starting application run...
+2025-04-30 01:02:37.317 +04:00 [INF] Resolved product catalog path to: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json
+2025-04-30 01:02:37.321 +04:00 [INF] Loading Product Catalog...
+2025-04-30 01:02:37.381 +04:00 [INF] Successfully deserialized 5 products from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json
+2025-04-30 01:02:37.395 +04:00 [INF] Product catalog loaded and frozen successfully from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\products.json. Contains 5 unique products.
+2025-04-30 01:02:37.398 +04:00 [INF] Product Catalog loaded successfully.
+2025-04-30 01:02:37.401 +04:00 [INF] Resolved ingredient mappings path to: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json
+2025-04-30 01:02:37.404 +04:00 [INF] Loading Ingredient Mappings...
+2025-04-30 01:02:37.414 +04:00 [INF] Successfully deserialized 5 ingredient mappings from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json
+2025-04-30 01:02:37.420 +04:00 [INF] Ingredient mappings loaded and frozen successfully from C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\ingredients.json. Contains mappings for 5 unique products.
+2025-04-30 01:02:37.423 +04:00 [INF] Ingredient Mappings loaded successfully.
+2025-04-30 01:02:37.425 +04:00 [INF] Found 21 order JSON files to process in directory: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\
+2025-04-30 01:02:37.621 +04:00 [INF] MockQueue initialized with 20 % failure probability.
+2025-04-30 01:02:37.708 +04:00 [INF] BatchQueuePusher initialized with push batch size 50.
+2025-04-30 01:02:37.711 +04:00 [INF] OrderProcessingOrchestrator initialized.
+2025-04-30 01:02:37.724 +04:00 [INF] Starting order batch processing for 21 file(s)...
+2025-04-30 01:02:37.727 +04:00 [INF] [yellow]Phase 1: Buffering order files started[/]
+2025-04-30 01:02:37.754 +04:00 [INF] Starting order file buffering process for 21 file(s).
+2025-04-30 01:02:37.756 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order01_valid.json
+2025-04-30 01:02:37.788 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order01_valid.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.796 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order02_invalid_address.json
+2025-04-30 01:02:37.799 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order02_invalid_address.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.801 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order03_inconsistent.json
+2025-04-30 01:02:37.803 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order03_inconsistent.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.805 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order04_invalid_quantity.json
+2025-04-30 01:02:37.807 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order04_invalid_quantity.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.813 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order05_invalid_date.json
+2025-04-30 01:02:37.815 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order05_invalid_date.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.818 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order06_product_not_found.json
+2025-04-30 01:02:37.820 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order06_product_not_found.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.822 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order07_malformed_item.json
+2025-04-30 01:02:37.833 +04:00 [ERR] Malformed JSON in C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order07_malformed_item.json – skipping file. Error: The JSON value could not be converted to System.Int32. Path: $[1].Quantity | LineNumber: 12 | BytePositionInLine: 21.
+2025-04-30 01:02:37.841 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order07_malformed_item.json. Skipped items in this file: 1. Fatal JSON error: false
+2025-04-30 01:02:37.849 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order08_empty_item.json
+2025-04-30 01:02:37.861 +04:00 [WRN] Skipping order line item with missing or invalid format OrderId ('') in file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order08_empty_item.json. Data: {"OrderId":"","ProductId":"","Quantity":0,"DeliverAt":"0001-01-01T00:00:00.0000000","CreatedAt":"0001-01-01T00:00:00.0000000","CustomerAddress":"","$type":"RawOrderLineItem"}
+2025-04-30 01:02:37.888 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order08_empty_item.json. Skipped items in this file: 1. Fatal JSON error: false
+2025-04-30 01:02:37.894 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order09_min_amount_fail.json
+2025-04-30 01:02:37.899 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order09_min_amount_fail.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.906 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order10_valid_complex.json
+2025-04-30 01:02:37.914 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order10_valid_complex.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.971 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order11_invalid_too_early.json
+2025-04-30 01:02:37.988 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order11_invalid_too_early.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:37.996 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order12_invalid_too_late.json
+2025-04-30 01:02:37.999 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order12_invalid_too_late.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.014 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order13_invalid_prep_time.json
+2025-04-30 01:02:38.017 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order13_invalid_prep_time.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.020 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order14_invalid_max_advance.json
+2025-04-30 01:02:38.022 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order14_invalid_max_advance.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.027 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order15_invalid_qty_limit.json
+2025-04-30 01:02:38.034 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order15_invalid_qty_limit.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.041 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order16_valid_edge_qty.json
+2025-04-30 01:02:38.044 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order16_valid_edge_qty.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.047 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order17_missing_req_field.json
+2025-04-30 01:02:38.050 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order17_missing_req_field.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.053 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order18_invalid_addr_format2.json
+2025-04-30 01:02:38.057 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order18_invalid_addr_format2.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.063 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order19_null_field_value.json
+2025-04-30 01:02:38.065 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order19_null_field_value.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.068 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order20_valid_vat_fallback.json
+2025-04-30 01:02:38.070 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order20_valid_vat_fallback.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.073 +04:00 [INF] Processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order21_valid.json
+2025-04-30 01:02:38.077 +04:00 [INF] Finished processing file: C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\bin\Debug\net9.0\order21_valid.json. Skipped items in this file: 0. Fatal JSON error: false
+2025-04-30 01:02:38.079 +04:00 [INF] Finished buffering all files. Buffered 20 unique OrderIds. Total skipped line items across all files: 2
+2025-04-30 01:02:38.082 +04:00 [INF] [green]Phase 1: Buffering complete. Buffered 20 unique OrderIds. Skipped 2 items.[/]
+2025-04-30 01:02:38.084 +04:00 [INF] [cyan]Phase 2: Processing 20 buffered orders[/]
+2025-04-30 01:02:38.182 +04:00 [INF] [cyan]Phase 2: Processing progress: 5% (1/20 orders)[/]
+2025-04-30 01:02:38.194 +04:00 [INF] [cyan]Phase 2: Processing progress: 10% (2/20 orders)[/]
+2025-04-30 01:02:38.203 +04:00 [WRN] Order ORD-00003 failed pre-validation in file order03_inconsistent.json: Inconsistent order data: Inconsistent DeliverAt times provided (10/27/2024 11:00:00 AM vs 10/27/2024 11:30:00 AM).
+2025-04-30 01:02:38.214 +04:00 [INF] [cyan]Phase 2: Processing progress: 15% (3/20 orders)[/]
+2025-04-30 01:02:38.220 +04:00 [WRN] Order ORD-00004 failed pre-validation in file order04_invalid_quantity.json: Invalid items: Line item for ProductId 'PRD-10004' has non-positive quantity (0) for Order ORD-00004.
+2025-04-30 01:02:38.224 +04:00 [INF] [cyan]Phase 2: Processing progress: 20% (4/20 orders)[/]
+2025-04-30 01:02:38.230 +04:00 [INF] [cyan]Phase 2: Processing progress: 25% (5/20 orders)[/]
+2025-04-30 01:02:38.246 +04:00 [WRN] Order ORD-00006 failed pre-validation in file order06_product_not_found.json: Invalid items: ProductId 'PRD-99999' not found in Product Catalog for Order ORD-00006.
+2025-04-30 01:02:38.250 +04:00 [INF] [cyan]Phase 2: Processing progress: 30% (6/20 orders)[/]
+2025-04-30 01:02:38.254 +04:00 [INF] [cyan]Phase 2: Processing progress: 35% (7/20 orders)[/]
+2025-04-30 01:02:38.271 +04:00 [INF] [cyan]Phase 2: Processing progress: 40% (8/20 orders)[/]
+2025-04-30 01:02:38.275 +04:00 [INF] [cyan]Phase 2: Processing progress: 45% (9/20 orders)[/]
+2025-04-30 01:02:38.285 +04:00 [INF] [cyan]Phase 2: Processing progress: 50% (10/20 orders)[/]
+2025-04-30 01:02:38.290 +04:00 [INF] [cyan]Phase 2: Processing progress: 55% (11/20 orders)[/]
+2025-04-30 01:02:38.294 +04:00 [INF] [cyan]Phase 2: Processing progress: 60% (12/20 orders)[/]
+2025-04-30 01:02:38.297 +04:00 [INF] [cyan]Phase 2: Processing progress: 65% (13/20 orders)[/]
+2025-04-30 01:02:38.304 +04:00 [INF] [cyan]Phase 2: Processing progress: 70% (14/20 orders)[/]
+2025-04-30 01:02:38.309 +04:00 [INF] [cyan]Phase 2: Processing progress: 75% (15/20 orders)[/]
+2025-04-30 01:02:38.438 +04:00 [WRN] Order ORD-00017 failed pre-validation in file order17_missing_req_field.json: Invalid items: Line item for ProductId 'PRD-10002' has non-positive quantity (0) for Order ORD-00017.
+2025-04-30 01:02:38.547 +04:00 [INF] [cyan]Phase 2: Processing progress: 80% (16/20 orders)[/]
+2025-04-30 01:02:38.550 +04:00 [INF] [cyan]Phase 2: Processing progress: 85% (17/20 orders)[/]
+2025-04-30 01:02:38.553 +04:00 [INF] [cyan]Phase 2: Processing progress: 90% (18/20 orders)[/]
+2025-04-30 01:02:38.556 +04:00 [INF] [cyan]Phase 2: Processing progress: 95% (19/20 orders)[/]
+2025-04-30 01:02:38.562 +04:00 [INF] [cyan]Phase 2: Processing progress: 100% (20/20 orders)[/]
+2025-04-30 01:02:38.574 +04:00 [INF] [green]Phase 2: Order processing complete. Valid: 0, Invalid: 20[/]
+2025-04-30 01:02:38.577 +04:00 [INF] No valid orders to push. Skipping queue push.
+2025-04-30 01:02:38.578 +04:00 [INF] Batch processing finished in 854 ms.
+2025-04-30 01:02:38.581 +04:00 [INF] Displaying final summary...
+2025-04-30 01:02:39.653 +04:00 [INF] Application run completed.

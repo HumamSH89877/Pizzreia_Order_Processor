@@ -1,0 +1,39 @@
+[
+  {
+    "ProductId": "PRD-10001",
+    "Ingredients": [
+      { "IngredientName": "Dough", "Amount": 25.0 },
+      { "IngredientName": "Tomato Sauce", "Amount": 10.0 },
+      { "IngredientName": "Mozzarella", "Amount": 15.0 }
+    ]
+  },
+  {
+    "ProductId": "PRD-10002",
+    "Ingredients": [
+      { "IngredientName": "Dough", "Amount": 25.0 },
+      { "IngredientName": "Tomato Sauce", "Amount": 15.0 },
+      { "IngredientName": "Mozzarella", "Amount": 15.0 },
+      { "IngredientName": "Pepperoni", "Amount": 20.0 }
+    ]
+  },
+  {
+    "ProductId": "PRD-10003",
+    "Ingredients": [
+      { "IngredientName": "Dough", "Amount": 25.0 },
+      { "IngredientName": "Tomato Sauce", "Amount": 15.0 },
+      { "IngredientName": "Mozzarella", "Amount": 15.0 },
+      { "IngredientName": "Mushrooms", "Amount": 18.5 },
+      { "IngredientName": "Peppers", "Amount": 16.5 }
+    ]
+  },
+  {
+    "ProductId": "PRD-10004",
+    "Ingredients": [
+      { "IngredientName": "Water", "Amount": 250.0 }
+    ]
+  },
+  {
+    "ProductId": "PRD-10005",
+    "Ingredients": []
+  }
+]

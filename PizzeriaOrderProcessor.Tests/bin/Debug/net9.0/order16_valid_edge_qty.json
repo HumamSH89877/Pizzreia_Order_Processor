@@ -1,0 +1,10 @@
+[
+  {
+    "OrderId": "ORD-00016",
+    "ProductId": "PRD-10002",
+    "Quantity": 100,
+    "CreatedAt": "2024-11-06T13:00:00Z",
+    "DeliverAt": "2024-11-06T14:00:00Z",
+    "CustomerAddress": "4059 Mt Lee Dr, Los Angeles, CA 90068"
+  }
+] 

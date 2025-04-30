@@ -1,0 +1,18 @@
+[
+  {
+    "OrderId": "ORD-00003",
+    "ProductId": "PRD-10001",
+    "Quantity": 1,
+    "CreatedAt": "2024-10-27T10:10:00Z",
+    "DeliverAt": "2024-10-27T11:00:00Z",
+    "CustomerAddress": "789 Pine Boulevard, Capital City, WA 98501"
+  },
+  {
+    "OrderId": "ORD-00003",
+    "ProductId": "PRD-10003",
+    "Quantity": 1,
+    "CreatedAt": "2024-10-27T10:10:00Z",
+    "DeliverAt": "2024-10-27T11:30:00Z",
+    "CustomerAddress": "789 Pine Boulevard, Capital City, WA 98501"
+  }
+] 

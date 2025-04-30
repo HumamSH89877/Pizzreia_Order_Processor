@@ -1,0 +1,10 @@
+[
+  {
+    "OrderId": "ORD-00005",
+    "ProductId": "PRD-10002",
+    "Quantity": 5,
+    "CreatedAt": "2024-10-27T10:20:00Z",
+    "DeliverAt": "2024-10-27T09:30:00Z",
+    "CustomerAddress": "222 Elm Drive, North Haverbrook, AZ 85001"
+  }
+] 
