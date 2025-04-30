@@ -19,10 +19,10 @@ A .NET 9 console application for processing pizzeria orders: loads sample data, 
 dotnet build
 
 # Run with all sample orders
-dotnet run -- SampleOrders/*.json
+dotnet run --project PizzeriaOrderProcessor
 
 # Or specify individual files:
-dotnet run -- orders/order1.json orders/order2.json
+dotnet run --project PizzeriaOrderProcessor -- "SampleOrders\order21_valid.json" 
 ```
 
 ## Configuration
@@ -52,13 +52,11 @@ Settings are in `appsettings.json` under sections:
 
 ## Sample Data
 - `products.json`, `ingredients.json` in project root
-- 20 sample order files in `SampleOrders/`
+- 22 sample order files in `SampleOrders/`
 
 ## Testing
-- 57 unit tests covering validation, calculation, queue logic
+- 89 unit tests covering validation, calculation, queue logic
 ```powershell
 dotnet test
 ```
 
-## License & Contact
-MIT License. Questions or feedback: humam@example.com
