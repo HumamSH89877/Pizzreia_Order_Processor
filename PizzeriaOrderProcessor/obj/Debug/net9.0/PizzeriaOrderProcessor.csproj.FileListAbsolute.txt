@@ -121,6 +121,7 @@ C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\obj\Debug\net9.0\PizzeriaOrde
 C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\obj\Debug\net9.0\PizzeriaOrderProcessor.AssemblyInfoInputs.cache
 C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\obj\Debug\net9.0\PizzeriaOrderProcessor.AssemblyInfo.cs
 C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\obj\Debug\net9.0\PizzeriaOrderProcessor.csproj.CoreCompileInputs.cache
+C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\obj\Debug\net9.0\PizzeriaOrderProcessor.sourcelink.json
 C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\obj\Debug\net9.0\Pizzeria.C35B351B.Up2Date
 C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\obj\Debug\net9.0\PizzeriaOrderProcessor.dll
 C:\Pizzreia_Order_Processor\PizzeriaOrderProcessor\obj\Debug\net9.0\refint\PizzeriaOrderProcessor.dll
